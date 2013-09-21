@@ -8,12 +8,10 @@ type FizzBuzzDivisor struct{
 	Message string //Message if a condition is met.
 }	
 func (fbd FizzBuzzDivisor) GetResult(num int) string {
-	result:=""
+	result:=strconv.Itoa(num)
 	if num % fbd.Value==0{
 		result = fbd.Message
-	} else {
-		result = strconv.Itoa(num)
-	}
+	} 
 	return result
 }
 
