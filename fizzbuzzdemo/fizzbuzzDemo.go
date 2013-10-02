@@ -1,7 +1,7 @@
 package main
 
 import (
-	sfb "fizzbuzzgo/fizzbuzzlib"
+	sfb "FizzBuzzGo/fizzbuzzlib"
 	"fmt"
 )
 
