@@ -11,7 +11,6 @@ func main() {
 		result := fbp.GetResult(i)
 		fmt.Printf("\n%v", result)
 	}
-
 }
 func GetItems() sfb.Items {
 	fbpno := sfb.FizzBuzzNumberOnly{}
