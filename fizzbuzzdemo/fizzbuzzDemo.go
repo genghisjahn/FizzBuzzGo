@@ -11,7 +11,6 @@ func main() {
 		result := fbp.GetResult(i)
 		fmt.Printf("\n%v", result)
 	}
-	//Adding a comment.
 
 }
 func GetItems() sfb.Items {
