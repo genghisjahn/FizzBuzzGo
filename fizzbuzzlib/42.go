@@ -13,4 +13,3 @@ func (fb42 FizzBuzzIs42) GetResult(num int) string {
 	}
 	return result
 }
-//Test
