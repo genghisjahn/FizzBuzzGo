@@ -16,4 +16,4 @@ func (fbps FizzBuzzPerfectSquare) GetResult(num int) string {
 	}
 	return result
 }
-//Comment added.
+
