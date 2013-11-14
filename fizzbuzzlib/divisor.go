@@ -15,5 +15,5 @@ func (fbd FizzBuzzDivisor) GetResult(num int) string {
 	return result
 }
 
-
+//another test
 
