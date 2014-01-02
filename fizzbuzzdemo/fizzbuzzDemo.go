@@ -23,3 +23,5 @@ func GetItems() sfb.Items {
 	fbdiv3 := sfb.FizzBuzzDivisor{3, "Fizz"}
 	return sfb.Items{fbps, fb42, fbpalin, fbdiv15, fbdiv5, fbdiv3}
 }
+
+//Test
