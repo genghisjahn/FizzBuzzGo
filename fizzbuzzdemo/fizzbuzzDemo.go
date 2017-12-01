@@ -1,8 +1,9 @@
 package main
 
 import (
-	sfb "FizzBuzzGo/fizzbuzzlib"
 	"fmt"
+
+	sfb "github.com/genghisjahn/FizzBuzzGo/fizzbuzzlib"
 )
 
 func main() {
